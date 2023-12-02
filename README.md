@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, thanks for taking the time to read about me. I'm a Colorado resident with a background in Science and over 20 years experience in the Wine Industry. Currently, I am transitioning to Software Development and Design in order to tackle a new challenge that will give me new skills for a bright future in an industry that is quickly and constantly evolving. I have found that continuous learning, hard work, perseverance, and grit have served me well and allowed me to continue to grow throughout my life, and I am hopeful that these values and new Web Development skills will serve to provide a long and successful career where I can help teams and companies create amazing applications that solve the needs of customers and users.
+
+
 
 <!--
 **ganuza/ganuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## TECHNOLOGIES
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
