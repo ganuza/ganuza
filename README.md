@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 </div>
 
 ## ACCOLADES
-
-🥇 **MARKET NEXT DOOR** - Winner of Turing School of Software and Design 2401 Demo Comp
+<div align='center'>
+🥇 <strong>MARKET NEXT DOOR</strong> - Winner of Turing School of Software and Design 2401 Demo Comp
+</div>
