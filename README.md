@@ -31,9 +31,13 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+
 </div>
 
 ## ACCOLADES
 <div align='center'>
-🥇 <a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>MARKET NEXT DOOR</a> - Winner of Turing School of Software and Design 2401 Demo Comp
+🥇 <strong>MARKET NEXT DOOR</strong> - Winner of Turing School of Software and Design 2401 Demo Comp
+  <br>
+  <a href=https://market-next-door-fe-f6728ad38b62.herokuapp.com/>Deployed App</a> | <a href=https://github.com/Market-Next-Door/ui-market-next-door>GitHub Repo</a>
 </div>
