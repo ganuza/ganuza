@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 
 ## ACCOLADES
 
-🥇 MARKET NEXT DOOR - Winner of Turing School of Software and Design 2401 Demo Comp
+🥇 #**MARKET NEXT DOOR**# - Winner of Turing School of Software and Design 2401 Demo Comp
