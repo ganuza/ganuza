@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   
-### TECHNOLOGIES
+## TECHNOLOGIES
 </div>
 <div align='center'>
   
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div align='center'>
   
-### ACCOLADES
+## ACCOLADES
 </div>
 <div align='center'>
 🥇 <strong>MARKET NEXT DOOR</strong> - Winner of Turing School of Software and Design 2401 Demo Comp
