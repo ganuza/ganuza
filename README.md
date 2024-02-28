@@ -1,3 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Banner</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header>
+      <span class="tt">&gt; Adrian Zabolitzki _</span>
+      <div id="brackets">
+        <span class="angle-brackets">&lt; /&gt;</span>
+        <span class="curly-brackets">{ }</span>
+      </div>
+      <hr />
+      <p class="text">
+        Recent graduate of Turing School of Software and Design <br />
+        in Front End Engineering seeking entry level <br />
+        Software Engineer position in the <br />
+        Denver, Colorado area
+      </p>
+    </header>
+  </body>
+</html>
+
+
+
 ### Hi, thanks for taking the time to read about me. I'm a Colorado resident with a background in Science and over 15 years experience in the Wine Industry. Currently, I am transitioning to Software Development and Design in order to tackle a new challenge that will give me new skills for a bright future in an industry that is quickly and constantly evolving. I have found that continuous learning, hard work, perseverance, and grit have served me well and allowed me to continue to grow throughout my life, and I am hopeful that these values and new Web Development skills will serve to provide a long and successful career where I can help teams and companies create amazing applications that solve the needs of customers and users.
 
 <p>&nbsp;</p>
