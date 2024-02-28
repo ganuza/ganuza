@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align='center'>
+  
 ### TECHNOLOGIES
+</div>
 <div align='center'>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -35,7 +38,10 @@ Here are some ideas to get you started:
 
 </div>
 
-## ACCOLADES
+<div align='center'>
+  
+### ACCOLADES
+</div>
 <div align='center'>
 🥇 <strong>MARKET NEXT DOOR</strong> - Winner of Turing School of Software and Design 2401 Demo Comp
   <br>
