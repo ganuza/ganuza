@@ -3,7 +3,7 @@
 ![Screenshot 2024-02-28 at 3 58 02 PM](https://github.com/ganuza/ganuza/assets/31826116/fa1bfdb0-0b3b-4242-a517-c7c5dad67ebe)
 
 
-### Hi, thanks for taking the time to read about me  
+### Hi, thanks for taking the time to read about me!
 I'm a Colorado resident with a background in Science and over 15 years experience in the Wine Industry. Currently, I am transitioning to Software Development and Design in order to tackle a new challenge that will give me new skills for a bright future in an industry that is quickly and constantly evolving. I have found that continuous learning, hard work, perseverance, and grit have served me well and allowed me to continue to grow throughout my life, and I am hopeful that these values and new Web Development skills will serve to provide a long and successful career where I can help teams and companies create amazing applications that solve the needs of customers and users.
 
 <p>&nbsp;</p>
