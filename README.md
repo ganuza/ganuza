@@ -6,6 +6,7 @@
 ### Hi, thanks for taking the time to read about me!
 I'm a Colorado resident with a background in Science and over 15 years experience in the Wine Industry. Currently, I am transitioning to Software Development and Design in order to tackle a new challenge that will give me new skills for a bright future in an industry that is quickly and constantly evolving. I have found that continuous learning, hard work, perseverance, and grit have served me well and allowed me to continue to grow throughout my life, and I am hopeful that these values and new Web Development skills will serve to provide a long and successful career where I can help teams and companies create amazing applications that solve the needs of customers and users.
 
+⚡ Fun fact: I moved to Colorado to be near big mountains for mountaineering, climbing, mountain biking, and fishing adventures!
 <p>&nbsp;</p>
 
 <!--
@@ -24,7 +25,19 @@ Here are some ideas to get you started:
 -->
 
 <div align='center'>
-  
+
+## Currently Working On
+I'm currently working on a contract with a Denver company creating a React front end in a private repository and also learning to put together a FastAPI backend.
+<br></br>
+
+## Currently Learning
+### FARM Stack  
+
+FastAPI  
+React  
+MongoDB  
+<br></br> 
+
 ## Technologies
 </div>
 <div align='center'>
