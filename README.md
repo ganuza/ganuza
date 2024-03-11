@@ -36,9 +36,10 @@ I'm currently working on a contract with a Denver company creating a React front
 FastAPI  
 React  
 MongoDB  
-<br></br> 
 
+<strong>See what I'm currently learning here:
 <a href=https://github.com/ganuza/today-i-learned>today-i-learned</a>
+<br></br> 
 ## Technologies
 </div>
 <div align='center'>
