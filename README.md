@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div align='center'>
 
 ## Currently Working On
-I'm currently working on a contract with a Denver company creating a React front end in a private repository and also learning to put together a FastAPI backend.
+I'm currently working on a contract with a Denver company creating a React front end in a private repository and also learning to put together a FastAPI and MongoDB backend.
 <br></br>
 
 ## Currently Learning
