@@ -33,7 +33,7 @@ I'm currently working on a contract with a Denver company creating a React front
 ## Currently Learning
 ### FARM Stack  
 
-FastAPI  
+FastAPI / Python  
 React  
 MongoDB  
 
